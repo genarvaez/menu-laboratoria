@@ -1,0 +1,13 @@
+@media (min-width: 621px){
+	.menu-responsive{
+	display: none;
+	}
+}
+@media (max-width: 620px){
+	.menu-responsive{
+	display: block;
+	}
+	.menu-desktop{
+		display: none;
+	}
+}
