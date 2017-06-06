@@ -42,6 +42,9 @@ li a{
 	cursor: pointer;
 	padding: 20px;
 }
+.menu-title:hover{
+	color: #FFBF00;
+}
 .drop-menu.container a{
 	font-size: 1.5em;
 	border-top: 2px solid black;
