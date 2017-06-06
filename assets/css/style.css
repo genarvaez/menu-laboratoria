@@ -25,6 +25,9 @@ li a{
 	font-size: 1.3em;
 	cursor: pointer;
 }
+li a:hover{
+	color: #424242;
+}
 
 /*MENU RESPONSIVE*/
 .drop-menu.container{
