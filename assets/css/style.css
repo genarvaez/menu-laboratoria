@@ -2,7 +2,7 @@
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
-	font-family: 'Dosis', sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 }
 .container{
 	display: flex;
@@ -41,7 +41,6 @@ li a:hover{
 	color: white;
 	text-decoration: none;
 	font-size: 2em;
-	font-family: font-family: 'Questrial', sans-serif;
 	cursor: pointer;
 	padding: 20px;
 }
@@ -52,6 +51,7 @@ li a:hover{
 	font-size: 1.5em;
 	border-top: 2px solid black;
 	padding-left: 20px;
+	font-family: 'Dosis', sans-serif;
 }
 .drop-menu.container a:hover{
 	color: #FFBF00;
